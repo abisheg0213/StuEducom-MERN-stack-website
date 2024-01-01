@@ -1,0 +1,51 @@
+label{
+    font-family: 'Times New Roman';
+}
+button{
+    margin-top: 10px;
+    font-family: 'Times New Roman';
+    font-size: medium;
+}
+input{
+    margin-left: 5px;
+    gap:5px;
+    font-size: medium;
+    font-family: 'Times New Roman';
+}
+h4{
+    font-family: 'Times New Roman';
+    font-weight: 50;
+}
+h1{
+    font-family: 'Times New Roman';
+    color: blueviolet;
+}
+select{
+    font-family: 'Times New Roman';
+}
+p{
+    color: red;
+    font-family: 'Times New Roman';
+    font-style: italic;
+}
+table{
+    font-family: 'Times New Roman';
+}
+h3{
+    font-family: 'Times New Roman';
+    color: red;
+    font-style: italic;
+}
+Card{
+    font-family: 'Times New Roman';
+}
+.card{
+    font-family: 'Times New Roman';
+    font-size: large;
+    border-radius: 2px;
+
+}
+span{
+    font-family: 'Times New Roman';
+    font-size: large;
+}
